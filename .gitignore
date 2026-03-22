@@ -1,0 +1,14 @@
+# Veri dosyaları (büyük — repoya ekleme)
+data/*.csv
+ 
+# Checkpoint dosyaları
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+ 
+# Model dosyası
+outputs/*.pkl
+ 
+# Ortam
+.env
+venv/
