@@ -1,5 +1,5 @@
 # Veri dosyaları (büyük — repoya ekleme)
-data/*.csv
+
  
 # Checkpoint dosyaları
 .ipynb_checkpoints/
