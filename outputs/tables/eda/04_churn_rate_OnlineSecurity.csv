@@ -1,0 +1,4 @@
+OnlineSecurity,n_customers,churn_rate,churn_rate_percent
+No,3498,0.4176672384219554,41.77
+Yes,2019,0.14611193660227836,14.61
+No internet service,1526,0.07404980340760157,7.4

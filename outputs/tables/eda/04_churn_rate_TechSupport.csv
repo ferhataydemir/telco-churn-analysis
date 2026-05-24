@@ -1,0 +1,4 @@
+TechSupport,n_customers,churn_rate,churn_rate_percent
+No,3473,0.4163547365390153,41.64
+Yes,2044,0.15166340508806261,15.17
+No internet service,1526,0.07404980340760157,7.4

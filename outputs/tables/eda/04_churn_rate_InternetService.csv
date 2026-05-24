@@ -1,0 +1,4 @@
+InternetService,n_customers,churn_rate,churn_rate_percent
+Fiber optic,3096,0.4189276485788114,41.89
+DSL,2421,0.1895910780669145,18.96
+No,1526,0.07404980340760157,7.4
