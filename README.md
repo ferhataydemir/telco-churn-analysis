@@ -55,9 +55,9 @@ telco-churn-analysis/
 │   └── telco_student_processed.csv
 │
 ├── notebooks/
-│   ├── 01_eda_student.ipynb
-│   ├── 02_feature_engineering_student.ipynb
-│   └── 03_modeling_student.ipynb
+│   ├── 01_EDA.ipynb
+│   ├── 02_feature_engineering.ipynb
+│   └── 03_modelling.ipynb
 │
 ├── outputs/
 │   ├── figures/
