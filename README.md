@@ -85,7 +85,7 @@ The project is divided into three main notebooks.
 Notebook:
 
 ```text
-notebooks/01_eda_student.ipynb
+notebooks/01_EDA.ipynb
 ```
 
 In this step, the dataset is examined before modeling.  
@@ -113,7 +113,7 @@ outputs/figures/eda/04_churn_rate_TechSupport.png
 Notebook:
 
 ```text
-notebooks/02_feature_engineering_student.ipynb
+notebooks/02_feature_engineering.ipynb
 ```
 
 In this step, the raw dataset is prepared for modeling.
@@ -148,7 +148,7 @@ data/telco_student_processed.csv
 Notebook:
 
 ```text
-notebooks/03_modeling_student.ipynb
+notebooks/03_modelling.ipynb
 ```
 
 In this step, three classification models are compared:
@@ -370,9 +370,9 @@ jupyter notebook
 Run the notebooks in this order:
 
 ```text
-1. notebooks/01_eda_student.ipynb
-2. notebooks/02_feature_engineering_student.ipynb
-3. notebooks/03_modeling_student.ipynb
+1. notebooks/01_EDA.ipynb
+2. notebooks/02_feature_engineering.ipynb
+3. notebooks/03_modelling.ipynb
 ```
 
 ---
